@@ -1,37 +1,55 @@
 # 外星人棋牌-客户端源码
 
 #### 介绍
-这是客户端，使用cocos2d-js开发的一款h5棋牌游戏源码。本源码来自外星人源码网 - www.eenot.com
+大家好，我外星人源码网的站长，这是第一次在码云上分享棋牌源码，此套棋牌游戏源码包含 **抢庄牛牛，捕鱼，斗地主，连线机，经典牛牛，八搭二，二八杠** 等。玩法多种多样是可以正常上线运营的源码！ 这是后端使用 nodejs  前端使用cocos2d-js开发的一套H5的游戏代码， coco2d-js也可以生成安卓和ios客户端，对这套代码感兴趣的小伙伴们 star 一下吧！！
 
-#### 软件架构
-软件架构说明
+服务端代码在这里：[https://gitee.com/eenot/eenot_qpgame_server](https://gitee.com/eenot/eenot_qpgame_server)
 
+本源码来自外星人源码网 - [http://www.eenot.com](http://www.eenot.com)
 
-#### 安装教程
+#### 运行截图
+![来自外星人源码网](https://images.gitee.com/uploads/images/2019/0525/105537_71b544c7_375279.png "2.png")
+![来自外星人源码网](https://images.gitee.com/uploads/images/2019/0525/105626_954c1b3c_375279.png "3.png")
+![来自外星人源码网](https://images.gitee.com/uploads/images/2019/0525/105611_4c6d07ca_375279.png "4.png")
+![来自外星人源码网](https://images.gitee.com/uploads/images/2019/0525/105636_fd8526aa_375279.png "5.png")
+![来自外星人源码网](https://images.gitee.com/uploads/images/2019/0525/105700_b02d7738_375279.png "6.png")
 
-1. xxxx
-2. xxxx
-3. xxxx
+#### 架设说明
+1.复制新的游戏服务器目录
+
+2.修改新复制出来的server/app.js
+
+`app.set('port', process.env.PORT || 3104);`
+
+新的端口
+3.在登录服务器里serverInfo.js 加上对应的
+
+```
+var serverRoom2 = {};
+
+serverRoom2.Server = 2;
+
+serverRoom2.bet = 5;
+
+serverRoom2.entryCoin = 500;
+
+serverRoom2.gift = 0;
+
+serverRoom2.ip = "127.0.0.1";
+
+serverRoom2.prot = "3104";	
+	
+serverGame1.serverInfo.push(serverRoom2);
+
+GameConfig.push(serverGame1);
+```
+
+4.修改倍数
+gameConfig.js
+
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+本源码来自外星人源码网 如果在安装和架设中遇到任何问题可以加我们的QQ群交流  QQ群号：873931886
 
-#### 参与贡献
-
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0525/105810_632a8129_375279.jpeg "QQ图片20190525105759.jpg")
