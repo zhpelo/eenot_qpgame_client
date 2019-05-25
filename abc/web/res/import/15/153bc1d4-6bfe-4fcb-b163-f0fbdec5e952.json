@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"BdeButtonAnimation","_duration":2,"wrapMode":0,"curveData":{"paths":{"buttonlight":{"props":{"opacity":[{"frame":0,"value":0},{"frame":1,"value":150},{"frame":2,"value":0}],"x":[{"frame":0,"value":-230},{"frame":2,"value":230}]}}}}}

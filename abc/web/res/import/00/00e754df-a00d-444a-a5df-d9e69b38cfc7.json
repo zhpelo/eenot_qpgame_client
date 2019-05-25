@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"Fruit6","_duration":0.6666666666666666,"wrapMode":2,"curveData":{"comps":{"cc.Sprite":{}},"props":{"rotation":[{"frame":0,"value":0},{"frame":0.16666666666666666,"value":10},{"frame":0.3333333333333333,"value":0},{"frame":0.5,"value":-10},{"frame":0.6666666666666666,"value":0}]}}}

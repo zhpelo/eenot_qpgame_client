@@ -1,0 +1,7 @@
+{
+    "loginIp": "http://118.184.168.75:13000",
+    "isUpdate" : 1,
+    "guest": "bosen",
+    "exchangeRate": 100,
+    "versionArray": ["1.0", "1.0", "1.0", "1.0", "1.0", "1.0", "1.0"]
+}

@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"BetFull","_duration":2,"sample":20,"curveData":{"props":{"opacity":[{"frame":0,"value":255},{"frame":2,"value":0}]}},"events":[{"frame":2,"func":"betFullCallBack_Function","params":[]}]}

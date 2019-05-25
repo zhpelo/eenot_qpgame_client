@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"halo","_duration":2,"sample":1,"wrapMode":2,"curveData":{"comps":{"cc.Sprite":{"spriteFrame":[{"frame":0,"value":{"__uuid__":"988ceaf8-4091-4ca4-b7fd-a26f9631b393"}},{"frame":1,"value":{"__uuid__":"988ceaf8-4091-4ca4-b7fd-a26f9631b393"}}]}},"props":{"rotation":[{"frame":0,"value":0},{"frame":1,"value":180},{"frame":2,"value":360}]}}}

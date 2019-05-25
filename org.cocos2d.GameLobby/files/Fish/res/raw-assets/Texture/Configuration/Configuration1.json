@@ -1,0 +1,7 @@
+{
+    "loginIp": "http://192.168.1.170:13000",
+    "isUpdate" : 1,
+    "guest": "wahaha",
+    "exchangeRate": 100,
+    "versionArray": ["1.0", "1.0", "1.0", "1.0", "1.0", "1.0", "1.0"]
+}

@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"BdeStartAnimation","_duration":1,"curveData":{"props":{"scaleX":[{"frame":0,"value":0},{"frame":0.25,"value":1}],"scaleY":[{"frame":0,"value":0},{"frame":0.25,"value":1}],"opacity":[{"frame":0,"value":255},{"frame":0.75,"value":255},{"frame":1,"value":0}]}}}

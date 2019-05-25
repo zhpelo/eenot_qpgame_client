@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"Fruit2","_duration":1,"wrapMode":2,"curveData":{"comps":{"cc.Sprite":{}},"props":{"scaleX":[{"frame":0,"value":1},{"frame":0.5,"value":1.2},{"frame":1,"value":1}],"scaleY":[{"frame":0,"value":1},{"frame":0.5,"value":1.2},{"frame":1,"value":1}]}}}

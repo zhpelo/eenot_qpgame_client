@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"obj-gold2","_duration":0.75,"sample":4,"speed":0.5,"wrapMode":2,"curveData":{"comps":{"cc.Sprite":{"spriteFrame":[{"frame":0,"value":{"__uuid__":"ddad0cb0-6e97-42f4-a49b-3b0b0f149601"}},{"frame":0.25,"value":{"__uuid__":"bff1b861-798e-4f9f-a4fc-90809b460a62"}},{"frame":0.5,"value":{"__uuid__":"00a33db5-6abd-45a8-803c-e03f368ba27f"}}]}}}}

@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"Here","_duration":1,"sample":2,"wrapMode":2,"curveData":{"comps":{"cc.Sprite":{}},"props":{"y":[{"frame":0,"value":0},{"frame":0.5,"value":-20},{"frame":1,"value":0}]}}}

@@ -1,0 +1,8 @@
+{
+    "loginIp": "http://47.52.101.90:13000",
+    "isUpdate" : 1,
+    "guest": "abc",
+    "exchangeRate": 100,
+    "versionArray": ["3.0", "1.0", "1.0", "1.0", "1.0", "1.0", "1.0"],
+    "showGame": 0
+}

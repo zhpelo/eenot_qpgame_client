@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"GrabBullButtonAnimation","_duration":2.9833333333333334,"wrapMode":0,"curveData":{"props":{},"paths":{"buttonlight":{"props":{"opacity":[{"frame":0,"value":0},{"frame":1.5,"value":150},{"frame":2.9833333333333334,"value":0}],"y":[{"frame":0,"value":360},{"frame":2.9833333333333334,"value":-120}]}}}}}

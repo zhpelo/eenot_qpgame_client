@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"dead26","_duration":0.6,"sample":10,"curveData":{"comps":{"cc.Sprite":{"spriteFrame":[{"frame":0,"value":{"__uuid__":"d66ed4e2-60ed-462d-8382-204094bfc3c1"}}]}},"props":{"opacity":[{"frame":0,"value":255},{"frame":0.6,"value":0}]}}}

@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"BdeApplyToDownAnimation","_duration":1.5,"curveData":{"props":{"opacity":[{"frame":0,"value":255},{"frame":1,"value":255},{"frame":1.5,"value":0}]}},"events":[{"frame":1.5,"func":"applyToDownCallBack_Function","params":[]}]}

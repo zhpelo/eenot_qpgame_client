@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"FishButtonAnimation","_duration":3,"wrapMode":0,"curveData":{"paths":{"buttonlight":{"props":{"opacity":[{"frame":0.016666666666666666,"value":0},{"frame":1.5,"value":150},{"frame":3,"value":0}],"x":[{"frame":0.016666666666666666,"value":-370},{"frame":3,"value":370}]}}}}}
